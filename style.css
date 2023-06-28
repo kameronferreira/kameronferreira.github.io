@@ -7,10 +7,38 @@ h1 { font-style: italic; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Tre
 
 }
 
-#informacoes {background-color: cadetblue; font-style: italic, bold;
+#informacoes {background-color: aqua; font-style: italic, bold; color: black
 
 }
 
 .classhability {
     font-size: x-large;
 }
+
+#imagemkameron {
+    float: left;
+    margin-top: 30px;
+    padding: 5px;
+    background-color: aqua;
+    margin-right: 10px;
+
+}
+
+#divdescricao {
+    text-align:justify; }
+
+#info {
+    width: 300px;
+   
+}
+
+.stylenumberimpar{
+    color: aqua; font-style: bold
+    ;
+
+}
+
+#nametop {
+    text-align: center;
+}
+  
